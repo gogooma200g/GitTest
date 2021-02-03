@@ -14,4 +14,4 @@ class MyTestClass(BaseCase):
 
         # print("exist ", aa)
 
-        # 포트번호 삭제
+        # 포트번호 삭제dd
