@@ -13,3 +13,5 @@ class MyTestClass(BaseCase):
         # aa = self.assert_text("COMING SOON", timeout=10)
 
         # print("exist ", aa)
+        
+        # 포트번호 추가
